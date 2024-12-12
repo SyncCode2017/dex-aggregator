@@ -2,7 +2,7 @@
 
 This dex aggregator compares the price of a token on Uniswap V2, Sushiswap V2 and Pancakeswap V2 and route the swap of a user to the dex with the best price. Below is a screenshot of the DAPP.
 
-![alt text](/dex-aggregator-js/images/screenshot.png)
+![alt text](/dex-aggregator/images/screenshot.png)
 
 ## Getting Started
 
